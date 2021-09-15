@@ -5,9 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+transcript.wav
 
 # Distribution / packaging
 .Python
+.idea/
 build/
 develop-eggs/
 dist/
